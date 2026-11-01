@@ -2,7 +2,7 @@
 
 ## Overview
 
-This R&D project is developing a special [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) + [Progressive Web App](https://en.wikipedia.org/wiki/Progressive_web_app) edition of OpenToonz. 
+The concept behind the Opentoonz Anywhere project is to create a next generation web-browser session-operated Opentoonz app that works across mobile, tablets, and portable devices. It allows the end user to entirely skip the need to install the Opentoonz desktop application locally on a laptop or workstation. 
 
-It is brings OpenToonz powered creativity to mobile, tablets, and web browsers sessions.
+This project hopes to explore what it would look like if you could have the identical “OpenToonz” user experience but access it purely via a web browser hosted [Progressive Web App](https://en.wikipedia.org/wiki/Progressive_web_app) (PWA) session. The goal is to retain the best parts of the OpenToonz app-like user interface and tools that we all know and love.
 
