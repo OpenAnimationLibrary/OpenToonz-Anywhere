@@ -9,7 +9,6 @@ Ghibli Version**, originally developed in Italy by [Digital Video, Inc.](http://
 
 - OpenToonz can be used free of charge for both commercial and non-commercial projects.
 - Available as an open-source so that anyone can modify its source code freely.
-- We aim to develop a new platform for connecting the academic research with cutting edge animation production.
 
 ## Overview
 
