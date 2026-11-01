@@ -5,6 +5,10 @@
 OpenToonz is a 2D animation software published by [DWANGO](http://dwango.co.jp/english/). It is based on **Toonz Studio
 Ghibli Version**, originally developed in Italy by [Digital Video, Inc.](http://www.toonz.com/), and customized by [Studio Ghibli](http://www.ghibli.jp/) over many years of production.
 
+- OpenToonz can be used free of charge for both commercial and non-commercial projects.
+- Available as an open-source so that anyone can modify its source code freely.
+- We aim to develop a new platform for connecting the academic research with cutting edge animation production.
+
 ## Overview
 
 The core concept behind the OpenToonz Anywhere project is to create a next generation web-browser session-operated OpenToonz app that works across mobile, tablets, and portable devices. Our goal is to realize this dream using [Progressive Web App](https://en.wikipedia.org/wiki/Progressive_web_app) (PWA) technology while retaining the best parts of the existing [OpenToonz](https://opentoonz.github.io/e/index.html) app-like user interface design that we all know and love.
